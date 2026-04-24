@@ -138,8 +138,7 @@ Designed an end-to-end AI-driven decision system:
 
 ## 🎓 Certificate
 
-🔗 **View Certificate:**  
-[GenAI Data Analytics Certificate](https://github.com/KavyaSingh236/GenAI_Powered_Data_Analytics/blob/main/tata_genai_data_analytics.pdf)
+![GenAI Data Analytics Certificate](./GenAI_Data_Analytics.png)    
 
 ---
 
